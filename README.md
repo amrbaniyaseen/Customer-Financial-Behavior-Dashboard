@@ -16,7 +16,9 @@ This is my **first end-to-end project in Power BI**, where I built an interactiv
 
 ## Preview  
 ![Dashboard Preview](Dashboard1.png)  
+![Dashboard Preview](Dashboard2.png)  
 
 ## Files  
 - `Customer Financial Behavior Dashboard.pbix`: Main Power BI file  
-- `Dashboard1.png`: Dashboard screenshot  
+- `Dashboard1.png`: Dashboard screenshot
+- `Dashboard2.png`: Filtered Dashboard screenshot  
