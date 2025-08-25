@@ -20,5 +20,5 @@ This is my **first end-to-end project in Power BI**, where I built an interactiv
 
 ## Files  
 - `[Customer Financial Behavior Dashboard.pbix](https://drive.google.com/file/d/1UC36NrBUcJDBdsY8wEABq5nakCE-ZeUJ/view?usp=sharing)`: Main Power BI file 
-- `Dashboard1.png`: Dashboard screenshot
-- `Dashboard2.png`: Filtered Dashboard screenshot  
+- `/Dashboard Images/Dashboard1.png`: Dashboard screenshot
+- `/Dashboard Images/Dashboard2.png`: Filtered Dashboard screenshot  
